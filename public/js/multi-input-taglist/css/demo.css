@@ -1,0 +1,11 @@
+html,* { font-family: 'Poppins'; }
+
+hr {
+	height		: 0;
+	border-top	: 1px solid #158daa;
+}
+
+.tagtext-type {
+	margin		: 36px 0;
+}
+
