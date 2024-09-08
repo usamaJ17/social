@@ -10,6 +10,7 @@
 |
 */
 
+use Illuminate\Support\Facades\Auth;
 use Modules\Property\Models\PropertyCategory;
 use Modules\Location\Models\Location;
 

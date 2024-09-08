@@ -56,6 +56,12 @@
                         </a>
                     </div>
                 @endif
+                <div class="col-xs-12 col-sm-4">
+                    <a href="{{url('social-login/linkedin')}}" class="btn btn-tw btn-block btn_login_tw_link" data-channel="linkedin">
+                        <i class="input-icon fa fa-linkedin"></i>
+                        {{__('LinkedIn')}}
+                    </a>
+                </div>
             </div>
     @endif
 </form>

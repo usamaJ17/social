@@ -54,7 +54,9 @@
             'zip_code',
             'last_login_at',
             'avatar_id',
+            'avatar',
             'bio',
+            'linkedin_id',
             'business_name',
         ];
 
